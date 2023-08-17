@@ -1,0 +1,210 @@
+:root {
+	--backColor: #1e232f;
+	--fontColor: #c4c4c4;
+	--activityHintBackColor: #313539;
+	--linksColor: #d17628;
+	--navColor: #0e121b;
+}
+
+#page {
+	background: var(--backColor);
+}
+
+body {
+	background: var(--backColor) !important;
+}
+
+.card-body {
+	background: var(--backColor);
+}
+
+.gradingform_rubric .criterion.even td {
+	background: var(--activityHintBackColor) !important;
+}
+
+.col-md-9 {
+	background: var(--backColor);
+}
+
+li.list-group-item.course-listitem.border-left-0.border-right-0.border-top-0.px-2.rounded-0 {
+	background: var(--backColor);
+}
+
+button.btn.btn-link.btn-icon.icon-size-3.coursemenubtn {
+	color: var(--fontColor);
+}
+
+input.form-control.withclear.rounded {
+	background: var(--backColor);
+}
+
+div[role="main"] {
+	background: var(--backColor);
+}
+
+div.main-inner#topofscroll {
+	background: var(--backColor) !important;
+}
+
+nav.moremenu.navigation.observed {
+	background: var(--backColor);
+}
+
+ul.nav.more-nav.nav-tabs {
+	background: var(--backColor);
+}
+
+a.aalink.coursename {
+	color: var(--fontColor)
+}
+
+a.aalink.stretched-link {
+	color: var(--linksColor);
+}
+
+a.page-link {
+	background: var(--backColor);
+}
+
+div.activity-altcontent.course-description-item.small.d-flex {
+	background: var(--activityHintBackColor);
+}
+
+div.activity-dates.small.course-description-item {
+	background: var(--activityHintBackColor);
+}
+
+div.d-flex.align-items-start.position-relative {
+	color: var(--fontColor);
+}
+
+div.col-md-10.d-flex.flex-column {
+	background: var(--backColor) !important;
+}
+
+div.col-md-2.d-flex.align-items-center {
+	background: var(--backColor) !important;
+}
+
+div.drawer {
+	background: var(--backColor);
+}
+
+div.carousel-item {
+	background: var(--activityHintBackColor);
+}
+
+div.dropdown-menu.dropdown-menu-right.show {
+	background: var(--backColor);
+}
+
+div.login-wrapper.login-wrapper-center {
+	background: var(--backColor);
+}
+
+div.formulation.clearfix {
+	background: var(--activityHintBackColor);
+}
+
+div.info {
+	background: var(--activityHintBackColor) !important;
+}
+
+div.modal-content {
+	background: var(--backColor);
+}
+
+
+div.login-container {
+	background: var(--backColor);
+}
+
+div.alert.alert-info {
+	background: var(--activityHintBackColor);
+}
+
+div#region-main-box {
+	background: var(--backColor);
+}
+
+div.container-fluid.pt-5.mt-0 {
+	background: var(--backColor) !important;
+}
+
+div.availabilityinfo.small.course-description-item.isrestricted {
+	background: var(--activityHintBackColor);
+}
+
+button.btn.icon-no-margin {
+	background: var(--activityHintBackColor) !important;
+}
+
+nav.navbar.fixed-top.navbar-dark.bg-primary.navbar-expand {
+	background: var(--navColor) !important;
+}
+
+div.activity-header {
+	background: var(--activityHintBackColor) !important;
+}
+
+table.criteria {
+	background: var(--backColor) !important;
+}
+
+span.badge.badge-pill.badge-secondary.order-3 {
+	background: var(--activityHintBackColor);
+}
+
+div.card-img.dashboard-list-img.mw-100 {
+	display: none !important;
+}
+
+section#region-main {
+	background: var(--backColor);
+}
+
+div {
+	color: var(--fontColor)
+}
+
+h1,
+h5 {
+	color: var(--fontColor)
+}
+
+p {
+	color: var(--fontColor)
+}
+
+strong {
+	color: var(--fontColor)
+}
+
+table {
+	color: var(--fontColor) !important;
+}
+
+i {
+	color: var(--fontColor)
+}
+
+span {
+	color: var(--fontColor) !important
+}
+
+li {
+	color: var(--fontColor)
+}
+
+footer {
+	display: none !important;
+}
+
+a {
+	color: var(--fontColor) !important
+}
+
+a:active {
+	background: transparent !important;
+	border: none !important
+}

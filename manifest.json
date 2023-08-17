@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "name": "Edu susu Fix",
+    "version": "1.0",
+    "description": "Добавляет тёмную тему и удаляет несчастные иконки курсов.",
+    "icons": {},
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.edu.susu.ru/*"
+            ],
+            "js": [
+                "app.js"
+            ],
+            "css": [
+                "darkStyle.css"
+            ]
+        }
+    ]
+}
