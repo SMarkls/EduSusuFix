@@ -3,10 +3,10 @@
     "name": "Edu susu Fix",
     "version": "1.0",
     "description": "Добавляет тёмную тему и удаляет несчастные иконки курсов.",
-    "icons": {},
-    "browser_action": {
-        "default_popup": "popup.html"
+    "icons": {
+        "128": "128.png"
     },
+    "browser_action": {},
     "permissions": [
         "tabs"
     ],
